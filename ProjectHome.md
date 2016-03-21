@@ -1,0 +1,4 @@
+These days, OpenCV is one of key elements of any image processing application implemented in C/C++.
+Embedded design helps to have mobile, low level, low size and low price implementation of PC applications. Having embedded OpenCV library for digital signal processors (DSP) can be of a very big help to accelerate porting image processing applications to embedded solution.
+In this project, using the BeagleBoard xM, very important openCV functions and applications like Haar Training are going to be optimized for DSP.
+Another version of this project is being done in an appreciable and irreplaceable work http://code.google.com/p/opencv-dsp-acceleration/. We will try to expand this set of functions and also include HaarTraining.
